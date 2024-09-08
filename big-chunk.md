@@ -1,4 +1,4 @@
-# Deep Learning Roadmap
+# Big chunk
 
 **Made this as a curriculum for school club. Get a lot more questions from what you have in Anki. Go through the programming deck and drop good questions here. Also, speedrun through all this content and make more questions. Create it in gitbook and put it up on your github.**
 

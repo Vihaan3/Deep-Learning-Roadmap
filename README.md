@@ -2,7 +2,7 @@
 
 **Disclaimer: This is still in development. I wouldn't recommend using it yet (or really even looking at it).**&#x20;
 
-I made this to help guide AI self-learning at Hack Club Colts Neck. This is a truncated and streamlined version of my self-studying in deep learning over the past few months. Each resource/topic has a couple of intuition-based questions that should hopefully probe at what I think people should understand. I'm still relatively inexperienced myself, so some questions may be wrong or misleading.&#x20;
+I made this to help guide AI self-learning at Hack Club Colts Neck. This is a truncated and (far more) streamlined version of my self-studying in deep learning over the past few months. Each resource/topic has a couple of intuition-based questions that should hopefully probe at what I think people should understand. I'm still relatively inexperienced myself, so some questions may be wrong or misleading.&#x20;
 
 Guide to using this (make a separate page at one point):&#x20;
 

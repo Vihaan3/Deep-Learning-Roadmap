@@ -1,43 +1,5 @@
 # Big chunk
 
-**Made this as a curriculum for school club. Get a lot more questions from what you have in Anki. Go through the programming deck and drop good questions here. Also, speedrun through all this content and make more questions. Create it in gitbook and put it up on your github.**
-
-*   Coding
-
-    In this order:
-
-    * [ ] Get familiar w/ Python: https://exercism.org/tracks/python
-    * [ ] Get familiar w/ Numpy: https://cs231n.github.io/python-numpy-tutorial/
-    * [ ] Get familiar w/ Pytorch:
-      * [ ] https://pytorch.org/tutorials/
-      * [ ] https://pytorch.org/tutorials/beginner/blitz/neural\_networks\_tutorial.html
-      * [ ] https://pytorch.org/tutorials/beginner/nn\_tutorial.html#refactor-using-nn-module
-      * [ ] https://pytorch.org/tutorials/beginner/basics/intro.html
-    * [ ] Getting better with tensors
-      * [ ] Learn einops and einsum with this: https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]\_Prerequisites
-      * [ ] https://arena3-chapter0-fundamentals.streamlit.app/\[0.1]\_Ray\_Tracing
-*   Basic Math
-
-    **Note: These are all incredibly interesting on their own, and I generally did the full course for all of them, but if you just want to get through the prerequisites, (as far as I’ve seen) you usually need less than you think, and you can probably get other things when you need it.**
-
-    * Linear Algebra (link all the specific videos and tutorials you would recommend + some practice problems and questions from Anki to see how well they grok it)
-      * [ ] Basis
-      * [ ] Change of basis
-      * [ ] That a vector space is a geometric object that doesn’t necessarily have a canonical basis
-      * [ ] That a matrix is a linear map between two vector spaces (or from a vector space to itself)
-      * [ ] What’s singular value decomposition? Why is it useful?
-        * [ ] \*\*\*\*https://www.youtube.com/watch?v=nbBvuuNVfco
-      * [ ] What are orthogonal/orthonormal matrices, and how is changing to an orthonormal basis importantly different from just any change of basis?
-      * [ ] What are eigenvalues and eigenvectors, and what do these tell you about a linear map?
-      * [ ] Find matrix multiplication practice worksheets online and practice until it feels really easy
-    *   Probability
-
-        https://seeing-theory.brown.edu/basic-probability/index.html
-
-        Make sure you somewhat grok most of this.
-    *   Calculus
-
-        Watch at least the first 7 chapters of [https://www.3blue1brown.com/topics/calculus](https://www.3blue1brown.com/topics/calculus)
 *   Grokking the basics
 
     _**Add intuition questions.**_

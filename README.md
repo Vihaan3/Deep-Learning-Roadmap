@@ -2,7 +2,7 @@
 
 **Disclaimer: This is still in development. I wouldn't recommend using it yet (or really even looking at it).**&#x20;
 
-I made this to help guide AI self-learning at Hack Club Colts Neck. This is a truncated and (far more) streamlined version of my self-studying in deep learning over the past few months. Each resource/topic has a couple of intuition-based questions that should hopefully probe at what I think people should understand. I'm still relatively inexperienced myself, so some questions may be wrong or misleading.&#x20;
+I made this to help guide AI self-learning at Hack Club Colts Neck. This is a truncated and (far more) streamlined version of my self-studying in deep learning over the past few months. Each resource/topic has a couple of intuition-based questions that should hopefully probe at what I think people should understand. I'm still relatively inexperienced myself, so some questions may be wrong or misleading. You can make contributions here: [https://github.com/Vihaan3/Deep-Learning-Roadmap](https://github.com/Vihaan3/Deep-Learning-Roadmap).
 
 Guide to using this (make a separate page at one point):&#x20;
 
@@ -17,13 +17,15 @@ Guide to using this (make a separate page at one point):&#x20;
 
 My own journey (also make separate page)
 
-* Used fast.ai because I thought it was the best way to get started
-  * It was really good, but it went into a lot of things I wasn't interested in, and didn't go deep enough into others. Too "practical" for my tastes.&#x20;
-* Felt there was a lot missing, so I spent a little while getting a very high-level overview of the math
-* Took Andrej Karpathy's [Zero to Hero](https://karpathy.ai/zero-to-hero.html)&#x20;
-  * Realized that I now knew a lot of fundamental theory but couldn't program much without handholding&#x20;
-* Took [Arena](https://www.arena.education/)
-  * Felt like I already knew a lot, and wasted a lot of time doing things that weren't necessarily that  important. There was also probably way too much handholding in the programming and not even in the theory. &#x20;
+* I could work on an independent project in my AP CSA class after the AP exam, and I wanted to make a cool AI resource for my Hack Club -> expected to spend a couple of weeks but I ended up falling in love
+* My real journey
+  * Used [fast.ai](https://www.fast.ai/)'s [Practical Deep Learning for Coders](https://course.fast.ai/) because I thought it was the best way to get started
+    * It was really good, but it went into a lot of things I wasn't interested in, and didn't go deep enough into others. Too "practical" for my tastes.&#x20;
+  * Felt there was a lot missing, so I spent a little while getting a very high-level overview of the math
+  * Took Andrej Karpathy's [Zero to Hero](https://karpathy.ai/zero-to-hero.html)&#x20;
+    * Realized that I now knew a lot of fundamental theory but couldn't program much without handholding&#x20;
+  * Took [Arena](https://www.arena.education/)
+    * Felt like I already knew a lot, and wasted a lot of time doing things that weren't necessarily that  important. There was also probably way too much handholding in the programming and not even in the theory. &#x20;
 
 TODO
 

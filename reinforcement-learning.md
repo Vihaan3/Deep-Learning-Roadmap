@@ -4,6 +4,8 @@ Disclaimer to add at the top: This part is the most shaky because I'm still very
 
 How to study: preferably batches of 2+ hours at a time rather than distributed&#x20;
 
+[https://sites.google.com/view/deep-rl-bootcamp/lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) -> see if you might want to add this
+
 [https://arena3-chapter2-rl.streamlit.app/](https://arena3-chapter2-rl.streamlit.app/\[2.1]\_Intro\_to\_RL) - speedrun through this again and add some comments on what exercises to do and what not to do. Add intuition questions.&#x20;
 
 Intro to RL: [https://arena3-chapter2-rl.streamlit.app/%5B2.1%5D\_Intro\_to\_RL](https://arena3-chapter2-rl.streamlit.app/\[2.1]\_Intro\_to\_RL)

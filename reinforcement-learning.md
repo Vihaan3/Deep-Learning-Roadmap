@@ -16,6 +16,7 @@ Q-Learning and DQN: [https://arena3-chapter2-rl.streamlit.app/\[2.2\]\_Q-Learnin
 
 PPO: [https://arena3-chapter2-rl.streamlit.app/\[2.3\]\_PPO](https://arena3-chapter2-rl.streamlit.app/\[2.3]\_PPO)
 
+* A lot of the PPO design choices felt unmotivated until I learned more about VPG because policy gradient algorithms are kinda just fundamentally different that Q-learning algorithms. Include some good articles or GPT threads on those things first so that PPO doesn't just come out of left field.&#x20;
 * You had a good GPT thread that cleared everything up for you. Potentially just link that.&#x20;
 
 

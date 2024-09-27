@@ -15,7 +15,7 @@ _**Add intuition questions. Potentially cop some from fastbook -> for each topic
 * [ ] Watch [https://youtu.be/VMj-3S1tku0](https://youtu.be/VMj-3S1tku0) and follow along in a Jupyter notebook.
 * [ ] Watch “backpropogation calculus” from 3b1b
 * [ ] By now you should have a solid grok on backprop. Find other resources if you don’t.
-* [ ] The Rest of Andrej Karpathy’s course
+* [ ] The Rest of Andrej Karpathy’s course: **add the best questions and exercises from Karpathy's lectures**&#x20;
   * [ ] https://www.youtube.com/watch?v=PaCmpygFfXo
     * [ ] Make sure you understand all of the Pytorch operations
     * [ ] Explain broadcasting

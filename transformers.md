@@ -9,6 +9,6 @@ https://www.youtube.com/watch?v=kCc8FmEb1nY
 Intuition question: Explain attention from the perspective of two concurrent tokens _a_ and _b_ where a = "D" and b = "urs" and _b_ is attending to _a_.
 
 [https://arena3-chapter1-transformer-interp.streamlit.app/%5B1.1%5D\_Transformer\_from\_Scratch](https://arena3-chapter1-transformer-interp.streamlit.app/\[1.1]\_Transformer\_from\_Scratch)\
-\- speedrun through this again and add some comments on what exercises to do and what not to do. Add intuition questions. \
+\- speedrun through this again and add some comments on what exercises to do and what not to do if you've done the first. Add intuition questions. \
 \
-Do the rest of mech interp too, if you find it interesting!
+To the people doing this AI roadmap: Do the rest of mech interp as well if you find it interesting (which is really is) but it's not strictly necessary.&#x20;

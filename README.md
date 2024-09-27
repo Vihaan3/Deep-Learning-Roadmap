@@ -1,6 +1,6 @@
 # Home
 
-**Disclaimer: This is still in development. I wouldn't recommend using it yet (or really even looking at it).**&#x20;
+**Disclaimer: This is still in development. I wouldn't recommend using it yet (or really even looking at it). Right now this is 30% real content and 70% outlines and comments to myself.**&#x20;
 
 I made this to help guide AI self-learning at Hack Club Colts Neck. This is a truncated and (far more) streamlined version of my self-studying in deep learning over the past few months. I've broken it down into a list of topics, and each topic has an annotated list of resources with practice problems and intuition-based questions (note: I'm still relatively inexperienced myself, so some problems or questions may be misleading). This roadmap is basically an amalgamation of the three courses I've worked through (**edit: when the "my journey" page is a separate page, just link to there).** You can make contributions here: [https://github.com/Vihaan3/Deep-Learning-Roadmap](https://github.com/Vihaan3/Deep-Learning-Roadmap).
 

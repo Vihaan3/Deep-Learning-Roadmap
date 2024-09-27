@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Home](README.md)
+  * [Guide to Using This](home/guide-to-using-this.md)
+  * [My Journey](home/my-journey.md)
 * [Coding](coding.md)
 * [Math](math/README.md)
   * [Linear Algebra](math/linear-algebra.md)

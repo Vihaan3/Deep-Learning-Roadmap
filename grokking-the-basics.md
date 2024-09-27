@@ -1,5 +1,7 @@
 # Grokking the Basics
 
+How to study: preferably batches of 2+ hours at a time rather than distributed but it's fine if distributed.
+
 _**Add intuition questions. Potentially cop some from fastbook -> for each topic below: find the relevant section in the website -> find the relevant sections in the fastbook -> add here**_
 
 * [ ] Watch up to “backpropagation calculus” from [https://www.3blue1brown.com/topics/neural-networks](https://www.3blue1brown.com/topics/neural-networks)

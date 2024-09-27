@@ -1,5 +1,7 @@
 # Basic Tooling
 
+How to study: distributed is fine
+
 * [ ] Data Visualization
   * [ ] Get familiar with any plotting library
   * [ ] Find some online tutorials and play around for an hour or so

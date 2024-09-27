@@ -1,5 +1,7 @@
 # Transformers
 
+How to study: preferably batches of 2+ hours at a time rather than distributed&#x20;
+
 https://www.youtube.com/watch?v=kCc8FmEb1nY
 
 * [ ] Do the standard playing around for this

@@ -1,5 +1,7 @@
 # Coding
 
+How to study: distributed is fine
+
 In this order:
 
 * [ ] Get familiar w/ Python: https://exercism.org/tracks/python

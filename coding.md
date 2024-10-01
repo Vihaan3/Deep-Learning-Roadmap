@@ -1,16 +1,28 @@
 # Coding
 
-How to study: distributed is fine
+How to study: studying this in a distributed way (random small chunks of time) is fine &#x20;
 
-In this order:
+Customize this roadmap based on your prior knowledge, but make sure you have all these skills down well before moving on.&#x20;
 
-* [ ] Get familiar w/ Python: https://exercism.org/tracks/python
-* [ ] Get familiar w/ Numpy: https://cs231n.github.io/python-numpy-tutorial/
-* [ ] Get familiar w/ Pytorch:
-  * [ ] https://pytorch.org/tutorials/
-  * [ ] https://pytorch.org/tutorials/beginner/blitz/neural\_networks\_tutorial.html
-  * [ ] https://pytorch.org/tutorials/beginner/nn\_tutorial.html#refactor-using-nn-module
-  * [ ] https://pytorch.org/tutorials/beginner/basics/intro.html
-* [ ] Getting better with tensors -> **do a lot of this, and do it well. When you feel like you're done, spend a few more hours on it.**&#x20;
+**Note to self: Look at** [**this**](https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]\_Prerequisites) **in-depth and cop the best questions from it. Also look through a lot of the ones you're struggling with now and spend some time on them once you're done with PPO and RLHF.**&#x20;
+
+* [ ] Get familiar with Python&#x20;
+  * [ ] Roadmap
+    * [ ] Learn Python w/ [Kaggle](https://www.kaggle.com/learn/python)
+    * [ ] Practice a lot w/ [Exercism](https://exercism.org/tracksbe/python) -> If you think you're done practicing, practice for a few more hours. It's really important that you get the fundamentals down.&#x20;
+    * [ ] Go through [this book](https://book.pythontips.com/en/latest/) and make sure you understand everything up to section 21
+  * [ ] Additional: A couple of interesting resources that I haven't taken yet but have seen recommended online
+    * [ ] [MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/)'s intro to Python
+    * [ ] [Harvard](https://cs50.harvard.edu/python/2022/)'s intro to Python
+  * [ ] [Corey Schafer ](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) -> if there's anything in particular that you're confused by, it'll probably be explained really well in here
+* [ ] Get familiar with Numpy:&#x20;
+  * [ ] https://cs231n.github.io/python-numpy-tutorial/
+* [ ] Get familiar with Pytorch:
+  * [ ] [https://pytorch.org/tutorials/beginner/basics/intro.html](https://pytorch.org/tutorials/beginner/basics/intro.html)
+  * [ ] [https://pytorch.org/tutorials/beginner/nn\_tutorial.html](https://pytorch.org/tutorials/beginner/nn\_tutorial.html)
+* [ ] Practice Numpy and Pytorch
+  * [ ] Implement as many of [these exercises](ps://github.com/rougier/numpy-100/blob/master/100\_Numpy\_exercises.ipynb) as you feel like doing in both Numpy and Pytorch
+* [ ] Getting better with tensors -> **do a lot of this, and do it well. When you feel like you're done, spend a few more **_**days**_** on it.**&#x20;
   * [ ] Learn einops and einsum with this: https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]\_Prerequisites
   * [ ] https://arena3-chapter0-fundamentals.streamlit.app/\[0.1]\_Ray\_Tracing
+  * [ ] Please do this well. I never built up a strong foundation with tensor manipulations and I still struggle whenever I embark on larger projects because of it.&#x20;

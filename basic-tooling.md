@@ -1,6 +1,6 @@
 # Basic Tooling
 
-How to study: distributed is fine
+How to study: studying this in a distributed way (random small chunks of time) is fine&#x20;
 
 * [ ] Data Visualization
   * [ ] Get familiar with any plotting library

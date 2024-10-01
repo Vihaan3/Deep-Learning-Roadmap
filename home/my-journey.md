@@ -1,5 +1,7 @@
 # My Journey
 
+It feels a little egotistical to make a page titled "My Journey" when I haven't really done anything special, but I thought it would be good for you to get an idea of how I learned and the types of resources I'm basing this off of.&#x20;
+
 * I could work on an independent project in my AP CSA class after the AP exam, and I wanted to make a cool AI resource for my Hack Club -> expected to spend a couple of weeks but I ended up falling in love
 * My real journey
   * Used [fast.ai](https://www.fast.ai/)'s [Practical Deep Learning for Coders](https://course.fast.ai/) because I thought it was the best way to get started

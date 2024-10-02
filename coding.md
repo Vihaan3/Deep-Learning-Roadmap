@@ -22,6 +22,17 @@ Customize this roadmap based on your prior knowledge, but make sure you have all
   * [ ] [https://pytorch.org/tutorials/beginner/nn\_tutorial.html](https://pytorch.org/tutorials/beginner/nn\_tutorial.html)
 * [ ] Practice Numpy and Pytorch
   * [ ] Implement as many of [these exercises](ps://github.com/rougier/numpy-100/blob/master/100\_Numpy\_exercises.ipynb) as you feel like doing in both Numpy and Pytorch
+  *   [ ] Questions (shamelessly stolen from [https://arena3-chapter0-fundamentals.streamlit.app/\[0.0\]\_Prerequisites](https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]\_Prerequisites)):&#x20;
+
+      * At a high level, what is a `torch.Tensor`?
+      * What is a `nn.Parameter`, and `nn.Module`? **-> something you kind of struggle w/ urself**
+      * When you call `.backward()`, where are your gradients stored?
+      * What is a loss function? In general, what does it take for arguments, and what does it return?
+      * What does an optimization algorithm do?
+      * What is a hyperparameter, and how does it differ from a regular parameter?
+      * What are some examples of hyperparameters?
+
+      &#x20;
 * [ ] Getting better with tensors -> **do a lot of this, and do it well. When you feel like you're done, spend a few more **_**days**_** on it.**&#x20;
   * [ ] Learn einops and einsum with this: https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]\_Prerequisites
   * [ ] https://arena3-chapter0-fundamentals.streamlit.app/\[0.1]\_Ray\_Tracing

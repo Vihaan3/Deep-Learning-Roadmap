@@ -2,7 +2,7 @@
 
 Disclaimer to add at the top: This part is the most shaky because I'm still very new to RL myself.&#x20;
 
-How to study: preferably batches of 2+ hours at a time rather than distributed&#x20;
+How to study: preferably batches of 2+ hours at a time rather than distributed.&#x20;
 
 [https://sites.google.com/view/deep-rl-bootcamp/lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) -> see if you might want to add this
 

@@ -4,8 +4,6 @@ How to study: studying this in a distributed way (random small chunks of time) i
 
 Customize this roadmap based on your prior knowledge, but make sure you have all these skills down well before moving on.&#x20;
 
-**Note to self: Look at** [**this**](https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]\_Prerequisites) **in-depth and cop the best questions from it. Also look through a lot of the ones you're struggling with now and spend some time on them once you're done with PPO and RLHF.**&#x20;
-
 * [ ] Get familiar with Python&#x20;
   * [ ] Roadmap
     * [ ] Learn Python w/ [Kaggle](https://www.kaggle.com/learn/python)

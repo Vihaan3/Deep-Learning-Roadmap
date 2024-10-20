@@ -4,15 +4,26 @@ How to study: studying this in a distributed way (random small chunks of time) i
 
 Customize this roadmap based on your prior knowledge, but make sure you have all these skills down well before moving on.&#x20;
 
-* [ ] Get familiar with Python&#x20;
-  * [ ] Roadmap
-    * [ ] Learn Python w/ [Kaggle](https://www.kaggle.com/learn/python)
-    * [ ] Practice a lot w/ [Exercism](https://exercism.org/tracksbe/python) -> If you think you're done practicing, practice for a few more hours. It's really important that you get the fundamentals down.&#x20;
-    * [ ] Go through [this book](https://book.pythontips.com/en/latest/) and make sure you understand everything up to section 21
-  * [ ] Additional: A couple of interesting resources that I haven't taken yet but have seen recommended online
-    * [ ] [MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/)'s intro to Python
-    * [ ] [Harvard](https://cs50.harvard.edu/python/2022/)'s intro to Python
+
+
+<details>
+
+<summary>Get very familiar w/ Python</summary>
+
+* [ ] Roadmap I would recommend
+  * [ ] Learn Python w/ [Kaggle](https://www.kaggle.com/learn/python)
+  * [ ] Practice a lot w/ [Exercism](https://exercism.org/tracksbe/python) -> If you think you're done practicing, practice for a few more hours. It's really important that you get the fundamentals down.&#x20;
+  * [ ] Go through [this book](https://book.pythontips.com/en/latest/) and make sure you understand everything up to section 21
+
+<!---->
+
+* [ ] Other resources to use&#x20;
+  * [ ] [MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/)'s intro to Python
+  * [ ] [Harvard](https://cs50.harvard.edu/python/2022/)'s intro to Python
   * [ ] [Corey Schafer ](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) -> if there's anything in particular that you're confused by, it'll probably be explained really well in here
+
+</details>
+
 * [ ] Get familiar with Numpy:&#x20;
   * [ ] https://cs231n.github.io/python-numpy-tutorial/
 * [ ] Get familiar with Pytorch:

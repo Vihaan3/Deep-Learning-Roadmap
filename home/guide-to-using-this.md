@@ -1,7 +1,7 @@
 # Guide to Using This
 
 * &#x20;if you follow the full guide (minus the python section of coding), it'll be a time commitment of \~1 hour a day, this will probably take \~4 months (**edit: get a more precise timeline here by looking at toggle stats**) to complete&#x20;
-* you probably already know some of this so you can skip around a lot
+* you probably already know some of the content here so you can skip around a lot
   * This is meant for people who want to go reasonably deep (or as much as possible in the given timeframe) and not just use things at a high level without understanding them. It's fine if that doesn't fit your goals, and you could probably finish even faster then.&#x20;
 * This is a recommended roadmap, not anything set in stone. If you feel like you need to go deeper on a topic, go deeper. If you don't like the resources I recommend, look for other ones or ask me.&#x20;
 * don't learn passively

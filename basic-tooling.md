@@ -3,6 +3,5 @@
 How to study: studying this in a distributed way (random small chunks of time) is fine&#x20;
 
 * [ ] Data Visualization
-  * [ ] Get familiar with any plotting library
-  * [ ] Find some online tutorials and play around for an hour or so
-  * [ ] If you haven’t already done so, go back to Andrej Karpathy’s makemore 3 video, and do the visualizations from scratch.
+  * [ ] Get familiar with any plotting library (I would recommend using [this](https://www.perfectlynormal.co.uk/blog-plotly-widgets) to learn Plotly)
+    * [ ] Play around for an hour or so and use Anki to memorize all the basics

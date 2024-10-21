@@ -36,7 +36,7 @@ _**Add intuition questions. Potentially cop some from fastbook -> for each topic
       * [ ] Why was batchnorm a breakthrough?
     * [ ] Why do you want to do something like layer.weight \*= 5/3?
     * [ ] Take note of the different visualizations. What is each of them supposed to tell you? What do they look like when things are good? What do they look like when things are broken?
-      * [ ] Don’t worry about understanding the visualizations now. We’ll come back later
+      * [ ] Make sure you can reproduce the visualizations using whatever plotting library you've learned
   * [ ] https://youtu.be/q8SA3rM6ckI
     * [ ] Just go through this and make sure you understand all of it. Do all the exercises you can (if you’ve only been learning calc for the first time, you probably won’t be able to do the last two exercises yet, but that’s ok.)
   * [ ] https://youtu.be/t3YJ5hKiMQ0

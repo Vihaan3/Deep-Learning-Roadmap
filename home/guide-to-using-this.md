@@ -1,11 +1,17 @@
 # Guide to Using This
 
-* Assuming you already know how to code (you can either pick up Python quickly or know it already) but know nothing else here, completing this roadmap in its entirety will probably take \~120 hours. Take this estimate with a mountain of salt as your mileage will definitely vary. A good target goal to set is \~7 hours a week. At that pace, you should be able to complete it in about 4 months (again, take this with a mountain of salt). &#x20;
-* Know what your goals are and how you learn best.&#x20;
-  * This is meant for people who want to go reasonably deep (or as much as possible in the given timeframe), and not just use libraries at a high level without understanding them. It's fine if that doesn't fit your goals, and in that case you can probably finish faster.&#x20;
+* Assuming you already know how to code (you can either pick up Python quickly or know it already) but know nothing else here, completing this roadmap in its entirety will probably take \~120 hours. Take this estimate with a mountain of salt as your mileage will definitely vary. Based on that rough estimate, a good target goal to set is \~7 hours a week, which would keep you on pace to complete it in about 4 months. This isn't as bad as it might seem, because you'll (hopefully) learn a lot of broad and genuinely valuable skills, and end up in a position where you'll be able to work on awesome AI-related coding projects in exchange for 120 hours of your life.  &#x20;
+* Know what your goals are in advance and how you learn best.&#x20;
+  * This is less of a course and more of a resource that can help you find resources to learn from and mini-projects + questions to test your knowledge. You should know what you want to get out of it in advance and adapt it for yourself. If you don't really know what you want to get out of it, contact me and I can try to help you figure it out (although, again, I'm still a beginner myself).&#x20;
+  * This roadmap is meant for people who want to go reasonably deep theoretically (or as much as possible in the given timeframe), and aren't as concerned about practical applications. There's no shame if that doesn't fit your goals, and in that case you can probably finish the roadmap faster (or just check out [fast.ai](https://course.fast.ai/) once you're comfortable with Python; it's an amazing course for gaining practical deep learning skills).&#x20;
   * If you feel like you need to go deeper on a topic, go deeper. If you don't like the resources I recommend, look for others or ask me.&#x20;
-* Don't learn passively
-  * use a note-taking app + Anki -> (**edit: go more in-depth into Anki, learning, try to find the Practical Deep Learning for Coders Lecture 0 (how to learn for this course) video, etc**)
+* Don't learn passively when watching lectures (this will be less of a problem with later weeks).
+  * use a note-taking app at first to get a broad overview. Then, encode all of that using Anki.&#x20;
+    * [https://ncase.me/remember/      ](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/)
+    * [https://andymatuschak.org/prompts/      ](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/)
+    * [https://quantum.country/](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/) (once you know a little more about linear algebra, come back and look through this)[\
+      ](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/)
+  * [https://youtu.be/gGxe2mN3kAg](https://youtu.be/gGxe2mN3kAg)
   * For the programming sections program along, or re-program afterwards.&#x20;
     * A lot of these resources will have Jupyter notebooks. I have a 3 step process for learning with these that I like:
       * First, just passively run each cell and generally see if you understand what the code is doing.&#x20;
@@ -14,4 +20,4 @@
   * For the math&#x20;
     * Take notes + **do practice problems** (please do this. I didn't and wasted nearly a week really struggling before having to come back.)
   * You can do it! Don't rush through and be okay with taking your time. This is a complex topic, and learning it meaningfully well and in a way that will stick in the long-term is going to take a while. Stick with things that are hard and messy. I found tensor manipulations extremely annoying and unintuitive, and I never bothered to really build up my intuition for them. That's still affecting me today.&#x20;
-    * It's easy to just let your eyes glaze over and become overwhelmed when you come across complex-looking equations and diagrams and difficult-sounding words and then to end up just skipping it. Make it a point not to do this! That will become a bad habit that will hamper you as you move forward. use ChatGPT/Claude/Gemini/Phind to help you out.
+    * It's easy to just let your eyes glaze over and become overwhelmed when you come across complex-looking equations and diagrams and difficult-sounding words and then to end up just skipping it. Make it a point not to do this! That will become a bad habit that will hamper you as you move forward. use ChatGPT/Claude/Gemini/Phind to help you out

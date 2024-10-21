@@ -14,3 +14,5 @@ From Neel Nanda:
 * [ ] What are eigenvalues and eigenvectors, and what do these tell you about a linear map?
 * [ ] Find matrix multiplication practice worksheets online and practice until it feels really easy
 
+Go back and take a look at [this](https://quantum.country/). It will really help you understand how to use spaced repetition for technical topics.
+

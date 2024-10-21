@@ -5,12 +5,12 @@
   * This is less of a course and more of a resource that can help you find resources to learn from and mini-projects + questions to test your knowledge. You should know what you want to get out of it in advance and adapt it for yourself. If you don't really know what you want to get out of it, contact me and I can try to help you figure it out (although, again, I'm still a beginner myself).&#x20;
   * This roadmap is meant for people who want to go reasonably deep theoretically (or as much as possible in the given timeframe), and aren't as concerned about practical applications. There's no shame if that doesn't fit your goals, and in that case you can probably finish the roadmap faster (or just check out [fast.ai](https://course.fast.ai/) once you're comfortable with Python; it's an amazing course for gaining practical deep learning skills).&#x20;
   * If you feel like you need to go deeper on a topic, go deeper. If you don't like the resources I recommend, look for others or ask me.&#x20;
-* Don't learn passively when watching lectures (this will be less of a problem with later weeks).
-  * use a note-taking app at first to get a broad overview. Then, encode all of that using Anki.&#x20;
-    * [https://ncase.me/remember/      ](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/)
-    * [https://andymatuschak.org/prompts/      ](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/)
-    * [https://quantum.country/](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/) (once you know a little more about linear algebra, come back and look through this)[\
-      ](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/)
+* Figure out a strategy to make sure you remember what you learn
+  * Use spaced repetition systems (**please do this, I can personally guarantee that you will probably increase the effectiveness of your learning by at least 5X**)
+    * Read introductions to spaced repetition [here](https://ncase.me/remember/) and [here](https://augmentingcognition.com/ltm.html) &#x20;
+    * Learn how to use spaced repetition like a virtuoso [here](https://andymatuschak.org/prompts/) and [here](https://www.perfectlynormal.co.uk/blog-how-i-use-anki)[      ](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/)[      ](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/)
+      * Bookmark [this](https://quantum.country/) and come back to it once you have a better understanding of linear algebra. It will help you understand how to use spaced repetition effectively for technical topics. [\
+        ](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/)
   * [https://youtu.be/gGxe2mN3kAg](https://youtu.be/gGxe2mN3kAg)
   * For the programming sections program along, or re-program afterwards.&#x20;
     * A lot of these resources will have Jupyter notebooks. I have a 3 step process for learning with these that I like:

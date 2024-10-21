@@ -5,18 +5,19 @@
   * This is less of a course and more of a resource that can help you find resources to learn from and mini-projects + questions to test your knowledge. You should know what you want to get out of it in advance and adapt it for yourself. If you don't really know what you want to get out of it, contact me and I can try to help you figure it out (although, again, I'm still a beginner myself).&#x20;
   * This roadmap is meant for people who want to go reasonably deep theoretically (or as much as possible in the given timeframe), and aren't as concerned about practical applications. There's no shame if that doesn't fit your goals, and in that case you can probably finish the roadmap faster (or just check out [fast.ai](https://course.fast.ai/) once you're comfortable with Python; it's an amazing course for gaining practical deep learning skills).&#x20;
   * If you feel like you need to go deeper on a topic, go deeper. If you don't like the resources I recommend, look for others or ask me.&#x20;
-* Figure out a strategy to make sure you remember what you learn
+* Figure out a strategy to make sure you remember what you learn. When watching lectures or reading blog posts, have an internal monitor for whenever things feel a little too fast or easy because it probably means that you are learning too passively.&#x20;
   * Use spaced repetition systems (**please do this, I can personally guarantee that you will probably increase the effectiveness of your learning by at least 5X**)
     * Read introductions to spaced repetition [here](https://ncase.me/remember/) and [here](https://augmentingcognition.com/ltm.html) &#x20;
     * Learn how to use spaced repetition like a virtuoso [here](https://andymatuschak.org/prompts/) and [here](https://www.perfectlynormal.co.uk/blog-how-i-use-anki)[      ](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/)[      ](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/)
       * Bookmark [this](https://quantum.country/) and come back to it once you have a better understanding of linear algebra. It will help you understand how to use spaced repetition effectively for technical topics. [\
         ](https://ncase.me/remember/https://andymatuschak.org/prompts/https://quantum.country/)
-  * [https://youtu.be/gGxe2mN3kAg](https://youtu.be/gGxe2mN3kAg)
-  * For the programming sections program along, or re-program afterwards.&#x20;
-    * A lot of these resources will have Jupyter notebooks. I have a 3 step process for learning with these that I like:
-      * First, just passively run each cell and generally see if you understand what the code is doing.&#x20;
-      * Second, delete each cell and re-implement it yourself.&#x20;
-      * Third, do the whole thing yourself from scratch (or if that's too much, for an intermediate step, do increasingly larger chunks of the thing yourself).&#x20;
+  * Skim through fast.ai's [lecture 0](https://youtu.be/gGxe2mN3kAg). Although we won't be using too much of fast.ai, I like their learning philosophy, and there are a couple of great tips specific to being a deep learning coder. &#x20;
+  * For lectures, either program along or re-program afterwards from memory (ideally both).&#x20;
+    * A lot of these resources will have corresponding Jupyter notebooks. I have a 3 step process for learning with these that I like:
+      * First, just passively run each cell as you watch the lecture and generally make sure you understand what the code is doing. Write out what each cell does in comments.&#x20;
+      * Second, once you're done with the lecture, delete the code each cell and re-implement it yourself based on the comments.&#x20;
+      * Third, condense the cells together into different sections in the pipeline and implement each section from scratch.&#x20;
+      * Fourth, if you feel up to it, try to do the whole thing from scratch w/o comments.&#x20;
   * For the math&#x20;
     * Take notes + **do practice problems** (please do this. I didn't and wasted nearly a week really struggling before having to come back.)
   * You can do it! Don't rush through and be okay with taking your time. This is a complex topic, and learning it meaningfully well and in a way that will stick in the long-term is going to take a while. Stick with things that are hard and messy. I found tensor manipulations extremely annoying and unintuitive, and I never bothered to really build up my intuition for them. That's still affecting me today.&#x20;

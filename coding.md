@@ -11,7 +11,9 @@ Customize this roadmap based on your prior knowledge, but make sure you have all
 <summary>Get very familiar w/ Python</summary>
 
 * [ ] Roadmap I would recommend
-  * [ ] Learn Python w/ [Kaggle](https://www.kaggle.com/learn/python)
+  * [ ] Learn Python w/ Kaggle&#x20;
+    * [ ] [This](https://www.kaggle.com/learn/intro-to-programming) if you're a complete beginner to programming
+    * [ ] [This](https://www.kaggle.com/learn/python) if you already know how to program
   * [ ] Practice a lot w/ [Exercism](https://exercism.org/tracksbe/python) -> If you think you're done practicing, practice for a few more hours. It's really important that you get the fundamentals down.&#x20;
   * [ ] Go through [this book](https://book.pythontips.com/en/latest/) and make sure you understand everything up to section 21
 

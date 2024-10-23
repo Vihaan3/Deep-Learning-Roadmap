@@ -2,7 +2,7 @@
 
 How to study: preferably batches of 2+ hours at a time rather than distributed but it's fine if distributed.
 
-_**Add intuition questions. Potentially cop some from fastbook -> for each topic below: find the relevant section in the website -> find the relevant sections in the fastbook -> add here**_
+_**Add intuition questions. Potentially cop some from fastbook -> for each topic below: find the relevant section in the website -> find the relevant sections in the fastbook -> add here. Also use expandables for each section.**_&#x20;
 
 * [ ] Watch up to “backpropagation calculus” from [https://www.3blue1brown.com/topics/neural-networks](https://www.3blue1brown.com/topics/neural-networks)
 * [ ] Use this [fast.ai](http://fast.ai) lesson: [https://course.fast.ai/Lessons/lesson5.html](https://course.fast.ai/Lessons/lesson5.html) (try your best to understand everything other than backpropagation. It’s fine if that’s still fuzzy for you by the time you’re done.)
@@ -17,6 +17,7 @@ _**Add intuition questions. Potentially cop some from fastbook -> for each topic
 * [ ] Watch [https://youtu.be/VMj-3S1tku0](https://youtu.be/VMj-3S1tku0) and follow along in a Jupyter notebook.
 * [ ] Watch “backpropogation calculus” from 3b1b
 * [ ] By now you should have a solid grok on backprop. Find other resources if you don’t.
+* [ ] **Go back to the** [**coding page**](coding.md) **and complete the rest of it.**&#x20;
 * [ ] The Rest of Andrej Karpathy’s course: **add the best questions and exercises from Karpathy's lectures**&#x20;
   * [ ] https://www.youtube.com/watch?v=PaCmpygFfXo
     * [ ] Make sure you understand all of the Pytorch operations

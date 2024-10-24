@@ -23,7 +23,7 @@
 * Practice
   * [How Does a Neural Network Really Work](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
   * [Linear Model and Neural Net From Scratch](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch)
-  * **How to practice** (relevant for future sections in this page as well)
+  * **How to practice** (relevant for all future Andrej Karpathy videos as well)
     * Run each cell and understand why it works. If you don't get it, ask GPT until you do. **Don't let your eyes glaze over and start skimming.**
       * Create a new cell that describes what the original cell does in comments. Include the basic functionality and hints for any particularly thorny implementation details as well as _why_.
       * Re-implement in your new cell&#x20;

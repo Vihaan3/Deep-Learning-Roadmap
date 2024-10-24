@@ -25,4 +25,6 @@
     * Don't rush through and be okay with taking your time. This is a complex topic, and learning it meaningfully well and in a way that will stick in the long-term is going to take a while. Care a lot about building a very good foundation and slowly working up.&#x20;
       * If you couldn't tell, all of this is from painful personal experience that has probably set me back 20-30 hours overall.
     * It's too easy to just let your eyes glaze over and move on too fast when you come across complex-looking equations, diagrams and terms. Make it a point not to do this! It will become a bad habit that will hamper you as you move forward (not just here, but whenever you try to teach yourself something). Stick with things that are hard and messy. Search things up and use GPT liberally to help you figure things out.&#x20;
-* When I say "use GPT", I mean "use whatever AI tool you're most comfortable with."
+* Me-specific wording
+  * When I say "use/ask GPT", I mean "search things up and/or use whatever AI tool you're most comfortable with".
+  * Whenever I say "watch" a 3Blue1Brown video, I'll link to lesson on 3B1B's site, where it will be in both video and text format. It would probably be best to skim the text and answer the questions after watching the video.  &#x20;

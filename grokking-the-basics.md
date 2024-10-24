@@ -11,43 +11,39 @@
 
 <details>
 
-<summary>Neural Networks</summary>
+<summary>Neural Networks Basics</summary>
 
 * Videos
   * Watch up to (but not including) “backpropagation calculus” from 3Blue1Brown's Neural Networks [playlist](https://www.3blue1brown.com/topics/neural-networks)
-  * Watch fast.ai's [lesson on neural networks](https://course.fast.ai/Lessons/lesson5.html):  (try your best to understand everything other than backpropagation. It’s fine if that’s still fuzzy for you by the time you’re done.)
-    * search up/use GPT for things you don’t understand but just passively watch the video for now
-  * **TODO:** add questions from Anki for both of the above
+  * Watch Andrej Karpathy's lecture on [neural networks](https://youtu.be/VMj-3S1tku0) (it's okay if some of the exact backprop stuff doesn't make complete sense quite yet)
+  * **TODO:** add questions from Anki on basic neural net concepts&#x20;
 * Practice
   * [How Does a Neural Network Really Work](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
   * [Linear Model and Neural Net From Scratch](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch)
   * **How to practice** (relevant for future sections in this page as well)
-    * First, run each cell and understand why it works. If you don't get it, ask&#x20;
+    * Run each cell and understand why it works. If you don't get it, ask GPT until you do. **Don't let your eyes glaze over and start skimming.**
+      * Create a new cell that describes what the original cell does in comments. Include the basic functionality and hints for any particularly thorny implementation details as well as _why_.
+      * Re-implement in your new cell&#x20;
+    * Once you feel like you understand each cell, condense cells until each one represents a significant "chunk".&#x20;
+      * Do the same process as above
+    * Remove all hints and try to do the whole thing by yourself. At most, keep a bulleted list of all the high-level logical "chunks". &#x20;
+    * Ideally, you want to now do the whole thing with new specifications (new dataset, slightly different architecture, etc).
+  * (Recommended Bonus): go through the [fastbook version ](https://github.com/fastai/fastbook/blob/master/04\_mnist\_basics.ipynb)of this lesson. If you've already practiced extensively with the previous 2 notebooks, you can go through this relatively quickly and just understand each cell.&#x20;
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>Backprop</summary>
 
-
+* Watch 3B1B's [backpropagation calculus](https://www.3blue1brown.com/lessons/backpropagation-calculus) (definitely read through the text after watching the video; it helps a lot with clarification)
+  * Understand this (from Neel Nanda): backprop is just the chain rule on multivariate functions.
+  * By now you should have a solid grok on backprop. Find other resources if you don't.&#x20;
+* [Become a backprop ninja](https://www.youtube.com/watch?v=q8SA3rM6ckI) :).
+  * You won't be able to do many of these yourself but try your best. Don't skip this because I think it really helps build intuition for how gradients "flow" through a neural net.
 
 </details>
 
-
-
-
-
-* [ ] Run each cell and understand why it works.
-  * [ ] Create a new cell that describes in plain English what the cell does
-  * [ ] Delete the old cell and re-implement that functionality in your new cell
-* [ ] Once you feel like you understand each cell, condense cells until each one represents a significant portion of the training pipeline
-  * [ ] Do the same process as the above
-* [ ] Bonus: read and play with [https://github.com/fastai/fastbook/blob/master/04\_mnist\_basics.ipynb](https://github.com/fastai/fastbook/blob/master/04\_mnist\_basics.ipynb)
-* [ ] Watch [https://youtu.be/VMj-3S1tku0](https://youtu.be/VMj-3S1tku0) and follow along in a Jupyter notebook.
-* [ ] Watch “backpropogation calculus” from 3b1b
-* [ ] By now you should have a solid grok on backprop. Find other resources if you don’t.
-* [ ] Neel Nanda: The intuition for what backprop is - in particular, grokking the idea that backprop is just the chain rule on multivariate functions
 * [ ] **Go back to the** [**coding page**](coding.md) **and complete the rest of it.**&#x20;
 * [ ] The Rest of Andrej Karpathy’s course: **add the best questions and exercises from Karpathy's lectures**&#x20;
   * [ ] https://www.youtube.com/watch?v=PaCmpygFfXo

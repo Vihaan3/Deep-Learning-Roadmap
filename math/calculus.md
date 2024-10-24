@@ -1,10 +1,23 @@
 # Calculus
 
-You should see at least the first seven of this: [https://www.3blue1brown.com/topics/calculus](https://www.3blue1brown.com/topics/calculus) + **the Taylor Series (refresh on this yourself) + find good resources for practice problems because you're very bad at partial derivatives**. -> ask gpt to help teach you partial derivatives and find practice problems
+<details>
 
-Neel Nanda:
+<summary>Learning</summary>
 
-* Gradients
-* The chain rule
-* The intuition for what backprop is - in particular, grokking the idea that backprop is just the chain rule on multivariate functions
+_This is going to look extremely familiar to the Linear Algebra section._&#x20;
 
+I would recommend 3Blue1Brown's introduction to [calculus](https://www.3blue1brown.com/topics/calculus). Again, since it's relatively short, I'd recommend just watching the whole thing through.&#x20;
+
+If there's one thing that you need to really get by the end, it's the chain rule.&#x20;
+
+**TODO:** Add questions from Anki.&#x20;
+
+</details>
+
+<details>
+
+<summary>Practice</summary>
+
+**TODO:** To be added
+
+</details>

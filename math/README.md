@@ -1,5 +1,3 @@
 # Math
 
-How to study: studying this in a distributed way (random small chunks of time) is fine&#x20;
-
-These are all incredibly interesting on their own, and I generally went a little deeper than necessary for some, but if you just want to get through the prerequisites, (as far as I’ve seen) you usually need less than you think, and you can probably get other things when you need it.
+All of these subjects are incredibly interesting on their own merits and the topics I recommend learning for each subject barely scratch their respect surfaces. What is here feels sufficient to me in terms of getting a solid intuitive grasp of neural networks, but you'll definitely want to go deeper using more comprehensive resources if you end up falling in love with deep learning.

@@ -1,6 +1,6 @@
 # Transformers
 
-How to study: preferably batches of 2+ hours at a time rather than distributed&#x20;
+How to study: preferably batches of 2+ hours at a time rather than distributed.&#x20;
 
 Get a non-technical introduction to attention with this: [https://www.3blue1brown.com/lessons/gpt](https://www.3blue1brown.com/lessons/gpt) and this: [https://www.3blue1brown.com/lessons/attention](https://www.3blue1brown.com/lessons/attention). &#x20;
 

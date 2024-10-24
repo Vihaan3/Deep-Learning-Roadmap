@@ -8,7 +8,6 @@
   * [Linear Algebra](math/linear-algebra.md)
   * [Calculus](math/calculus.md)
   * [Probability](math/probability.md)
-* [Basic Tooling](basic-tooling.md)
 * [Grokking the Basics](grokking-the-basics.md)
 * [Beyond the Basics](beyond-the-basics.md)
 * [Transformers](transformers.md)

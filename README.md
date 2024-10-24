@@ -1,13 +1,15 @@
 # Home
 
-**Disclaimer: This is still in development. I wouldn't recommend using it yet (or really even looking at it). Right now this is 30% real content and 70% rough outlines and comments to myself.**&#x20;
+**Disclaimer:** This is usable but still in active development and not yet in the ideal form I'd like it to be in. All sentences that begin with "TODO" are comments to myself.
 
-I made this roadmap to help guide AI self-learning at Hack Club Colts Neck. It's a truncated and streamlined version of my [journey](home/my-journey.md) self-studying in introductory deep learning material over the past few months. I've broken everything that I've learned down into a list of crucial topics with resources to learn from, problems to work on, and questions that probe at the knowledge I think you should take away. I'm still relatively inexperienced myself, so some problems or questions may be misleading; you can start issues [here](https://github.com/Vihaan3/Deep-Learning-Roadmap/issues) or contact me directly from whatever method works [here](https://vihaansondhi.substack.com/about#%C2%A7find-me). Read through my [guide](home/guide-to-using-this.md) before getting started, and use that to create a system that works for you. I can guarantee that spending a couple hours on improving your learning process in advance will have a _**massive**_ return on investment that will carry over into anything you decide to self-learn in the future.&#x20;
+I made this roadmap to help guide AI self-learning at Hack Club Colts Neck. It's a truncated and streamlined version of my [journey](home/my-journey.md) self-studying in introductory deep learning material over the past few months. I've broken everything that I've learned down into a list of crucial topics with resources to learn from, problems to work on, and questions that probe at the knowledge I think you should take away. **I'm still very inexperienced myself. A good heuristic for thinking about this resource, quality-wise, is that it's on par with what you would get if you asked a friend who had just finished a Psychology 101 course for a list of materials and tips on studying Psychology yourself**.&#x20;
+
+If (when) you find questions and tips that may be misleading; you can start issues [here](https://github.com/Vihaan3/Deep-Learning-Roadmap/issues) or contact me directly using whatever method works [here](https://vihaansondhi.substack.com/about#%C2%A7find-me). Read through my [guide](home/guide-to-using-this.md) before getting started, and use that to create a system that works for you. I can guarantee that spending a couple hours on improving your learning process in advance will have a _**massive**_ return on investment that will carry over into anything you decide to self-learn in the future.&#x20;
 
 TODO
 
 * [ ] Convert everything to expandables&#x20;
-* [ ] Actual content to cover personally:
+* [ ] Actual content to cover personally: Key goal (**make sure you can answer all of the week0 arena core concept questions in calc, lin. algebra, and probability by yourself**)
   * [ ] From week 0 of ARENA
     * [ ] Go through [this](https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]\_Prerequisites) in-depth and add questions from it + work on what you're weak on personally (calc and lin. algebra).
       * [ ] Find good vidoes, gpt threads, problem sets, worksheets, etc. You really struggled here w/ finding good ways to practice so make sure you add that and strongly emphasize it.&#x20;

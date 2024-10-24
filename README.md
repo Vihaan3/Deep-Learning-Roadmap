@@ -8,8 +8,7 @@ If (when) you find questions and tips that may be misleading; you can start issu
 
 TODO
 
-* [ ] Convert everything to expandables&#x20;
-* [ ] Actual content to cover personally: Key goal (**make sure you can answer all of the week0 arena core concept questions in calc, lin. algebra, and probability by yourself**)
+* [ ] Actual content being convered personally right now: Key goal (**make sure you can answer all of the week0 arena core concept questions in calc, lin. algebra, and probability by yourself**)
   * [ ] From week 0 of ARENA
     * [ ] Go through [this](https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]\_Prerequisites) in-depth and add questions from it + work on what you're weak on personally (calc and lin. algebra).
       * [ ] Find good vidoes, gpt threads, problem sets, worksheets, etc. You really struggled here w/ finding good ways to practice so make sure you add that and strongly emphasize it.&#x20;
@@ -21,10 +20,14 @@ TODO
         * [ ] Optimization
         * [ ] VAEs and GANs
     * [ ] Backprop -> drill down on calc and lin algebra in advance and do completely from scratch and w/o help
-    * [ ] For a lot of topics, look at the fast.ai 2 course and see if they're well-explained there.
-* [ ] Get a lot more questions from what Anki (comb through the programming deck and drop good questions here) + fastbook questions.&#x20;
-* [ ] Speedrun through all of this content and make more questions
+* [ ] Complete all TODOs
+  * [ ] Linear Algebra
+  * [ ] Calculus
+  * [ ] Probability
+  * [ ] Grokking the Fundamentals
+    * [ ] [#neural-networks-basics](grokking-the-fundamentals.md#neural-networks-basics "mention")
+    * [ ] [#optimization](grokking-the-fundamentals.md#optimization "mention")
+    * [ ] [#good-practice](grokking-the-fundamentals.md#good-practice "mention")
+  * [ ] Transformers: redo arena's transformer from scratch and then clean up everything.
+  * [ ] Reinforcement Learning: add questions and clean up everything
 * [ ] Sanity check all questions through ChatGPT/Claude/Phind
-* [ ] Clean up
-  * [ ] Separate into more sections and clean up formatting.
-  * [ ] Add time estimates for each part

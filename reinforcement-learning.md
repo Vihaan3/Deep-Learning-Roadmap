@@ -1,10 +1,10 @@
 # Reinforcement Learning
 
-Disclaimer to add at the top: This part is the most shaky because I'm still very new to RL myself.&#x20;
+**TODO:** clean up everything here.
 
-How to study: preferably batches of 2+ hours at a time rather than distributed.&#x20;
+**Status: Not yet usable!!!**
 
-[https://sites.google.com/view/deep-rl-bootcamp/lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) -> see if you might want to add this
+[https://sites.google.com/view/deep-rl-bootcamp/lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) -> see if you might want to add from this
 
 [https://arena3-chapter2-rl.streamlit.app/](https://arena3-chapter2-rl.streamlit.app/\[2.1]\_Intro\_to\_RL) - speedrun through this again and add some comments on what exercises to do and what not to do. Add intuition questions.&#x20;
 
@@ -22,7 +22,5 @@ PPO: [https://arena3-chapter2-rl.streamlit.app/\[2.3\]\_PPO](https://arena3-chap
 
 * A lot of the PPO design choices felt unmotivated until I learned more about VPG and TRPO because policy gradient algorithms are kinda just fundamentally different from Q-learning algorithms. Include some good articles or GPT threads on those things first so that PPO doesn't just come out of left field.&#x20;
 * You had a good GPT thread that cleared everything up for you. Potentially just link that.&#x20;
-
-
 
 RLHF: [https://arena3-chapter2-rl.streamlit.app/\[2.4\]\_RLHF](https://arena3-chapter2-rl.streamlit.app/\[2.4]\_RLHF)

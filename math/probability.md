@@ -2,7 +2,7 @@
 
 **TODO:** just about everything here
 
-**NOT YET USABLE!!!**
+**Status: Not Yet Usable!!!**
 
 Use this: https://seeing-theory.brown.edu/basic-probability/index.html based on this list below. Make sure you grok the important bits, but you can skip a lot of the rest (I would recommend sticking to it though, it's kinda cool!). &#x20;
 

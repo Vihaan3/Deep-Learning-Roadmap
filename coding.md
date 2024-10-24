@@ -27,13 +27,13 @@ Customize this roadmap based on your prior knowledge, but make sure you have all
 
 </details>
 
-Stop here for now and complete the rest after learning about the [basics](grokking-the-basics.md).
+Stop here for now. I'll tell you to revisit this page once you're more familiar with the [basics](grokking-the-fundamentals.md) of neural nets.
 
 <details>
 
 <summary>Get familiar w/ Numpy</summary>
 
-https://cs231n.github.io/python-numpy-tutorial/
+* https://cs231n.github.io/python-numpy-tutorial/
 
 </details>
 
@@ -41,11 +41,8 @@ https://cs231n.github.io/python-numpy-tutorial/
 
 <summary>Get familiar w/ Pytorch </summary>
 
-* [ ] [https://pytorch.org/tutorials/beginner/basics/intro.html](https://pytorch.org/tutorials/beginner/basics/intro.html)
-
-<!---->
-
-* [ ] [https://pytorch.org/tutorials/beginner/nn\_tutorial.html](https://pytorch.org/tutorials/beginner/nn\_tutorial.html)
+* [https://pytorch.org/tutorials/beginner/basics/intro.html](https://pytorch.org/tutorials/beginner/basics/intro.html)
+* [https://pytorch.org/tutorials/beginner/nn\_tutorial.html](https://pytorch.org/tutorials/beginner/nn\_tutorial.html)
 
 </details>
 
@@ -53,28 +50,23 @@ https://cs231n.github.io/python-numpy-tutorial/
 
 <summary>Practice Numpy and Pytorch</summary>
 
-
-
-* [ ] Implement as many of [these exercises](ps://github.com/rougier/numpy-100/blob/master/100\_Numpy\_exercises.ipynb) as you feel like doing in both Numpy and Pytorch
-
-<!---->
-
-* [ ] Answer these questions(shamelessly stolen from [https://arena3-chapter0-fundamentals.streamlit.app/\[0.0\]\_Prerequisites](https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]\_Prerequisites)):&#x20;
+* Implement as many of [these exercises](ps://github.com/rougier/numpy-100/blob/master/100\_Numpy\_exercises.ipynb) as you feel like doing in both Numpy and Pytorch
+* Answer these questions (shamelessly stolen from [https://arena3-chapter0-fundamentals.streamlit.app/\[0.0\]\_Prerequisites](https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]\_Prerequisites)):&#x20;
   * At a high level, what is a `torch.Tensor`?
   * What is a `nn.Parameter`, and `nn.Module`?&#x20;
   * When you call `.backward()`, where are your gradients stored?
-  * What is a loss function? In general, what does it take for arguments, and what does it return? (it's fine if this doesn't make sense yet)
-  * What does an optimization algorithm do? (it's fine if this doesn't make sense yet)
+  * What is a loss function? In general, what does it take for arguments, and what does it return?&#x20;
+  * What does an optimization algorithm do?&#x20;
   * What is a hyperparameter, and how does it differ from a regular parameter?
   * What are some examples of hyperparameters?
 
 </details>
 
+Stop here for now and revisit once more familiar with building a basic neural net.&#x20;
+
 <details>
 
 <summary>Getting Better with Tensors</summary>
-
-
 
 Do a lot of this, and do it well. When you feel like you're done, spend a few more _days_ on it. I still have not become completely comfortable with tensor manipulation and that's been a chink in my foundation that has truly bottlenecked my progress.
 

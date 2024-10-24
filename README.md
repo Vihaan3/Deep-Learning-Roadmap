@@ -29,10 +29,8 @@ TODO
   * [ ] Linear Algebra
   * [ ] Calculus
   * [ ] Probability
-  * [ ] Grokking the Fundamentals
+  * [ ] Grokking the Fundamentals (the links below are only visible on my end)
     * [ ] [#neural-networks-basics](grokking-the-fundamentals.md#neural-networks-basics "mention")
     * [ ] [#optimization](grokking-the-fundamentals.md#optimization "mention")
     * [ ] [#good-practice](grokking-the-fundamentals.md#good-practice "mention")
-  * [ ] Transformers: redo arena's transformer from scratch and then clean up everything.
-  * [ ] Reinforcement Learning: add questions and clean up everything
 * [ ] Sanity check all questions through ChatGPT/Claude/Phind

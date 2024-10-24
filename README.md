@@ -24,7 +24,7 @@ TODO
     * [ ] As many as are interesting from [here](https://arena3-chapter2-rl.streamlit.app/\[2.4]\_RLHF#learn-a-human-preference-reward-model)
       * [ ] learning a human preference reward model on down all look cool&#x20;
     * [ ] As many as are interesting from [here](https://arena3-chapter2-rl.streamlit.app/\[2.3]\_PPO#introduction-ppo-vs-dqn)
-      * [ ] wordle and (to a lesser extent) other enviroments look cool
+      * [ ] wordle and (to a lesser extent) other environments look cool
 * [ ] Complete all TODOs
   * [ ] Linear Algebra
   * [ ] Calculus

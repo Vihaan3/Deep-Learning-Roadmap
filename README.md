@@ -20,6 +20,10 @@ TODO
         * [ ] CNNs and ResNets
         * [ ] Optimization
         * [ ] VAEs and GANs
+  * [ ] (For RL) Review
+    * [https://spinningup.openai.com/en/latest/spinningup/rl\_intro.html](https://spinningup.openai.com/en/latest/spinningup/rl\_intro.html)
+    * [https://lilianweng.github.io/posts/2018-02-19-rl-overview/](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
+    * [https://youtu.be/JgvyzIkgxF0](https://youtu.be/JgvyzIkgxF0) -> if good, add to the roadmap
   * [ ] Bonus exercises:
     * [ ] As many as are interesting from [here](https://arena3-chapter2-rl.streamlit.app/\[2.4]\_RLHF#learn-a-human-preference-reward-model)
       * [ ] learning a human preference reward model on down all look cool&#x20;

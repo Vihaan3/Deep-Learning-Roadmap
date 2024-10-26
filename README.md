@@ -8,10 +8,11 @@ If (when) you find questions and tips that may be misleading; you can start issu
 
 TODO
 
-* [ ] Actual content being convered personally right now: Key goal (**make sure you can answer all of the week0 arena core concept questions in calc, lin. algebra, and probability by yourself**)
+* [ ] Actual content to cover personally right now before adding to the roadmap:&#x20;
+  * [ ] Lin alg., calculus, probability practice&#x20;
+    * [ ] Be able to answer all questions on these from the prereqs page from week 0 of Arena
+    * [ ] Add practice materials to here
   * [ ] From week 0 of ARENA
-    * [ ] Go through [this](https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]\_Prerequisites) in-depth and add questions from it + work on what you're weak on personally (calc and lin. algebra).
-      * [ ] Find good vidoes, gpt threads, problem sets, worksheets, etc. You really struggled here w/ finding good ways to practice so make sure you add that and strongly emphasize it.&#x20;
     * [ ] Ray Tracing
     * [ ] Get more comfortable w/ Pytorch again (weeks of doing RL has really weakened your Pytorch skills)
       * [ ] [https://pytorch.org/tutorials/beginner/nn\_tutorial.html](https://pytorch.org/tutorials/beginner/nn\_tutorial.html)
@@ -19,7 +20,6 @@ TODO
         * [ ] CNNs and ResNets
         * [ ] Optimization
         * [ ] VAEs and GANs
-    * [ ] Backprop -> drill down on calc and lin algebra in advance and do completely from scratch and w/o help
   * [ ] Bonus exercises:
     * [ ] As many as are interesting from [here](https://arena3-chapter2-rl.streamlit.app/\[2.4]\_RLHF#learn-a-human-preference-reward-model)
       * [ ] learning a human preference reward model on down all look cool&#x20;

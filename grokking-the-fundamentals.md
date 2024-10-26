@@ -60,7 +60,7 @@
 
 <summary>(Mostly) Language Modeling w/ Andrej Karpathy </summary>
 
-* **Meta-note**: do at least one of the recommended coding exercises that are in the descriptions of most videos. I didn't realize that they existed until I looked at the videos again while linking them here. I intend to take a day soon just to implement to work on as many as I can and link to the answers here (if this is still up when you read this, I probably haven't done them yet; contact me or open an issue about that to pressure me into doing so).
+* **Meta-note**: for each video that has exercises in the description, try to answer all the questions and do at least one of the coding exercises. I didn't think to check the description until I looked at the videos again while linking them here. I intend to take a day soon just to implement the most important coding exercises and answer all the questions (if this is still up when you read this, I probably haven't done them yet; contact me or open an issue about that to pressure me into doing so).
 * [Language Modeling Part 1: Makemore](https://www.youtube.com/watch?v=PaCmpygFfXo)
   * Make sure you understand all of the Pytorch operations
   * Explain broadcasting

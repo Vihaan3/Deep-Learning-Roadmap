@@ -8,9 +8,9 @@ If (when) you find questions and tips that may be misleading; you can start issu
 
 TODO
 
-* [ ] Actual content to cover personally right now before adding to the roadmap:&#x20;
+* [ ] Things to do personally before adding to the roadmap:&#x20;
   * [ ] Lin alg., calculus, probability practice&#x20;
-    * [ ] Be able to answer all questions on these from the prereqs page from week 0 of Arena
+    * [ ] Be able to answer all questions on these from the prereqs page from week 0 of Arena (I felt on top of the world as a teenager who "self-taught" very surface-level calc, linear algebra, and probability. Then I tried doing the questions and went asdfasdfasdfasf.)
     * [ ] Add practice materials to here
   * [ ] From week 0 of ARENA
     * [ ] Ray Tracing
@@ -29,6 +29,7 @@ TODO
       * [ ] learning a human preference reward model on down all look cool&#x20;
     * [ ] As many as are interesting from [here](https://arena3-chapter2-rl.streamlit.app/\[2.3]\_PPO#introduction-ppo-vs-dqn)
       * [ ] wordle and (to a lesser extent) other environments look cool
+    * [ ] Take a day to do the most important Karpathy exercises and link here
 * [ ] Complete all TODOs
   * [ ] Linear Algebra
   * [ ] Calculus

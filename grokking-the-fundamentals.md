@@ -15,9 +15,6 @@
 
 * Videos
   * Watch up to (but not including) “backpropagation calculus” from 3Blue1Brown's Neural Networks [playlist](https://www.3blue1brown.com/topics/neural-networks)
-  * Watch Andrej Karpathy's lecture on [neural networks](https://youtu.be/VMj-3S1tku0) (it's okay if some of the exact backprop stuff doesn't make complete sense quite yet)
-    * For all Andrej Karpathy videos, make sure you read the descriptions. They usually have Colab notebooks to follow along in and questions + exercises.&#x20;
-      * I would recommend either following along in the Colab notebook provided but pausing every so often to re-implement yourself or just following along and implementing in a separate Colab notebook. Also, always try to work on at least one of the exercises.&#x20;
   * **TODO:** add questions from Anki on basic neural net concepts&#x20;
 * Revisit and complete the [coding page](coding.md) until the second stop.
 * Practice
@@ -40,7 +37,14 @@
 
 <summary>Backprop</summary>
 
-* Watch 3B1B's [backpropagation calculus](https://www.3blue1brown.com/lessons/backpropagation-calculus) (definitely read through the text after watching the video; it helps a lot with clarification)
+* Watch either or both of Artem Kirsanov's [lovely explainer](https://youtu.be/SmZmBKc7Lrs) on backprop and 3B1B's [backpropagation calculus](https://www.3blue1brown.com/lessons/backpropagation-calculus) (definitely read through the text after watching the video; it helps a lot with clarification)
+* Watch Andrej Karpathy's lecture on [neural networks](https://youtu.be/VMj-3S1tku0) (it's okay if some of the exact backprop stuff doesn't make complete sense quite yet)
+  * For all Andrej Karpathy videos, make sure you read the descriptions. They usually have Colab notebooks to follow along in and questions + exercises.&#x20;
+    * I would recommend either following along in the Colab notebook provided but pausing every so often to re-implement yourself or just following along and implementing in a separate Colab notebook. Also, always try to work on at least one of the exercises.&#x20;
+* Progress check
+  * Really, truly, genuinely understand that a neural net is basically just a function that is trying to fit some points in a space in a way that allows it to predict future points with as much accuracy as possible. Artem Kirsanov's video builds some good intuition for that.&#x20;
+    * If you've taken a statistics class and remember looking at least-squares regression lines, just think of a neural network as a more complicated form of that.&#x20;
+      * Now, if you'll recall things like underfitting/overfitting, being wary of extrapolation, using metrics and other graphs to evaluate fit, and the impact that outliers can have on the line, things will feel very familiar as you continue to watch Andrej Karpathy videos in future sections.
   * Understand this (from Neel Nanda): backprop is just the chain rule on multivariate functions.
   * By now you should have a solid grok on backprop. Find other resources if you don't.&#x20;
 

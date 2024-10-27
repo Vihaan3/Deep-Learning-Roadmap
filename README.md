@@ -14,7 +14,7 @@ TODO
     * [ ] Add practice materials to here
   * [ ] From week 0 of ARENA
     * [ ] Ray Tracing
-    * [ ] Get more comfortable w/ Pytorch again (weeks of doing RL has really weakened your Pytorch skills)
+    * [ ] Get more comfortable w/ Pytorch again (weeks of doing RL has really weakened my Pytorch skills)
       * [ ] [https://pytorch.org/tutorials/beginner/nn\_tutorial.html](https://pytorch.org/tutorials/beginner/nn\_tutorial.html)
       * [ ] Speedrun
         * [ ] CNNs and ResNets
@@ -24,6 +24,7 @@ TODO
     * [https://spinningup.openai.com/en/latest/spinningup/rl\_intro.html](https://spinningup.openai.com/en/latest/spinningup/rl\_intro.html)
     * [https://lilianweng.github.io/posts/2018-02-19-rl-overview/](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
     * [https://youtu.be/JgvyzIkgxF0](https://youtu.be/JgvyzIkgxF0) -> if good, add to the roadmap
+    * [https://karpathy.github.io/2016/05/31/rl/](https://karpathy.github.io/2016/05/31/rl/) -> policy gradient
   * [ ] Bonus exercises:
     * [ ] As many as are interesting from [here](https://arena3-chapter2-rl.streamlit.app/\[2.4]\_RLHF#learn-a-human-preference-reward-model)
       * [ ] learning a human preference reward model on down all look cool&#x20;

@@ -30,10 +30,13 @@ TODO
   * [ ] Karpathy Tokenization video
   * [ ] Cool Projects
     * [ ] RL Bonus Exercises
-      * [ ] As many as are interesting from [here](https://arena3-chapter2-rl.streamlit.app/\[2.4]\_RLHF#learn-a-human-preference-reward-model)
-        * [ ] learning a human preference reward model on down all look cool&#x20;
-        * [ ] As many as are interesting from [here](https://arena3-chapter2-rl.streamlit.app/\[2.3]\_PPO#introduction-ppo-vs-dqn)
-          * [ ] wordle and (to a lesser extent) other environments look cool
+      * [ ] [RLHF](https://arena3-chapter2-rl.streamlit.app/\[2.4]\_RLHF#learn-a-human-preference-reward-model)
+        * [ ] learning a human preference reward model&#x20;
+        * [ ] All the suggested paper replications (3, 1, 2 in order of interestingness to me)
+        * [ ] Differential Learning Rates
+      * [ ] &#x20;[PPO](https://arena3-chapter2-rl.streamlit.app/\[2.3]\_PPO#introduction-ppo-vs-dqn)
+        * [ ] Wordle
+        * [ ] Other discrete environments
     * [ ] Finish doing the Karpathy exercises
     * [ ] Autodiff in C++ -> as much functionality as [this](https://github.com/UlisseMini/light)
     * [ ] Numpy-NN, inspired by [Elijah](https://github.com/Elijah-Bodden/Numpy-NN)&#x20;

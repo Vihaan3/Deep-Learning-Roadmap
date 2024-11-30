@@ -28,7 +28,7 @@
       * Do the same process as above
     * Remove all hints and try to do the whole thing by yourself. At most, keep a bulleted list of all the high-level logical "chunks". &#x20;
     * Ideally, you want to now do the whole thing with new specifications (new dataset, slightly different architecture, etc).
-  * (Recommended Bonus): go through the [fastbook version ](https://github.com/fastai/fastbook/blob/master/04\_mnist\_basics.ipynb)of this lesson. If you've already practiced extensively with the previous 2 notebooks, you can go through this relatively quickly and just understand each cell.&#x20;
+  * (Recommended Bonus): go through the [fastbook version ](https://github.com/fastai/fastbook/blob/master/04_mnist_basics.ipynb)of this lesson. If you've already practiced extensively with the previous 2 notebooks, you can go through this relatively quickly and just understand each cell.&#x20;
 * Revisit and complete the [last section of the coding page](coding.md#getting-better-with-tensors).
 
 </details>
@@ -48,9 +48,7 @@
   * Understand this (from Neel Nanda): backprop is just the chain rule on multivariate functions.
   * By now you should have a solid grok on backprop. Find other resources if you don't.&#x20;
 
-<!---->
-
-* [Become a backprop ninja part 1](https://arena3-chapter0-fundamentals.streamlit.app/\[0.4]\_Backprop) :)
+- [Become a backprop ninja part 1](https://arena3-chapter0-fundamentals.streamlit.app/\[0.4]_Backprop) :)
   * A lot might feel repetitive so skim if necessary. The last section is definitely worthwhile in it's entirety.&#x20;
   * Note: When I first went through ARENA, I didn't notice the colab notebooks at the top and was doing everything in my own Jupyter notebook. Definitely use the colab notebook provided for exercises to check your answers.&#x20;
 
@@ -67,7 +65,7 @@
   * What is negative log-likelihood?
   * What is softmax?
   * What were the two different models trained in the video? What are the key differences? Why might you prefer the second over the first (even if they have near-identical results as of now)?
-* [Language Modeling Part 2: MLP](https://youtu.be/TCH\_1BHY58I)
+* [Language Modeling Part 2: MLP](https://youtu.be/TCH_1BHY58I)
   * Why do you split into train/dev/test splits? Roughly what proportions are standard?
   * Why do you use minibatches? This video builds good intuition to what 3b1b mentions here: [https://youtu.be/Ilg3gGewQ5U?t=613](https://youtu.be/Ilg3gGewQ5U?t=613).
   * How do you find a good initial learning rate?
@@ -88,26 +86,11 @@
 
 <details>
 
-<summary>Optimization</summary>
+<summary>Going a little deeper w/ Arena</summary>
 
-**Note:** This looks like a good resource but I haven't used it yet so I can't offer any comments.
-
-[https://arena3-chapter0-fundamentals.streamlit.app/%5B0.3%5D\_Optimization](https://arena3-chapter0-fundamentals.streamlit.app/\[0.3]\_Optimization)
-
-**TODO:** Evaluate the chapter and see if there are any articles, GPT threads, questions, etc you want to add.
-
-</details>
-
-<details>
-
-<summary> Good Practice</summary>
-
-**Note:** These look like good resources but I haven't used it yet so I can't offer any comments.
-
-[https://arena3-chapter0-fundamentals.streamlit.app/%5B0.1%5D\_Ray\_Tracing](https://arena3-chapter0-fundamentals.streamlit.app/\[0.1]\_Ray\_Tracing)
-
-[https://arena3-chapter0-fundamentals.streamlit.app/%5B0.2%5D\_CNNs\_&\_ResNets](https://arena3-chapter0-fundamentals.streamlit.app/\[0.2]\_CNNs\_&\_ResNets)
-
-[https://arena3-chapter0-fundamentals.streamlit.app/%5B0.5%5D\_VAEs\_&\_GANs](https://arena3-chapter0-fundamentals.streamlit.app/\[0.5]\_VAEs\_&\_GANs)
+* [Ray Tracing](https://arena3-chapter0-fundamentals.streamlit.app/\[0.1]_Ray_Tracing): I didn't do this during my first pass through the ARENA material, and I found that it was actually really helpful for upskilling w/ Pytorch.&#x20;
+* [CNNs and ResNets](https://arena3-chapter0-fundamentals.streamlit.app/\[0.2]_CNNs_&_ResNets): This will probably feel somewhat familiar to the later Karpathy videos, and you can skip around a bit but I think it's good practice w/ Pytorch modules.
+* [Optimization](https://arena3-chapter0-fundamentals.streamlit.app/\[0.3]_Optimization): This is a really important chapter. **TODO:** add intuition questions from Anki.
+* [GANs and VAEs](https://arena3-chapter0-fundamentals.streamlit.app/\[0.5]_VAEs_&_GANs): Don't feel like there's that much conceptually new covered (besides the intro to VAEs and GANs) but I thought it was a nice way to tie everything in this section together.&#x20;
 
 </details>

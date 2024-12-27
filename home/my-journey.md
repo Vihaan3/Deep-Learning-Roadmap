@@ -2,7 +2,7 @@
 
 It feels a little egotistical to make a page titled "My Journey" when I haven't done anything special, but I thought it would be good for you to get an idea of how I learned and the types of resources I'm building this roadmap off of. A good chunk of the resources, questions, and problems I recommend come from one of these 3 courses (and a lot of math questions will come from [Neel Nanda](https://www.neelnanda.io/mechanistic-interpretability/prereqs)). I'll do my best to attribute directly when not already obvious. &#x20;
 
-* I could work on an independent project in my AP CSA class after the AP exam, and I wanted to make a cool AI resource to help the people in my Hack Club self-study -> expected to spend a couple of weeks but I ended up falling in love.&#x20;
+* I could work on an independent project in my AP CSA class after the AP exam, and I wanted to make a cool AI resource to help the people in my Hack Club self-study -> expected to spend a couple of weeks but I ended up falling in love. This is what I originally set out to make.&#x20;
 * The journey
   * Background:&#x20;
     * Math knowledge ended at Algebra 2

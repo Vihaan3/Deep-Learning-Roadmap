@@ -14,8 +14,7 @@
 <summary>Neural Networks Basics</summary>
 
 * Videos
-  * Watch up to (but not including) “backpropagation calculus” from 3Blue1Brown's Neural Networks [playlist](https://www.3blue1brown.com/topics/neural-networks)
-  * **TODO:** add questions from Anki on basic neural net concepts&#x20;
+  * Watch up to (but not including) “backpropagation calculus” from 3Blue1Brown's Neural Networks [playlist](https://www.3blue1brown.com/topics/neural-networks)&#x20;
 * Revisit and complete the [coding page](coding.md) until the second stop.
 * Practice
   * [How Does a Neural Network Really Work](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
@@ -30,6 +29,10 @@
     * Ideally, you want to now do the whole thing with new specifications (new dataset, slightly different architecture, etc).
   * (Recommended Bonus): go through the [fastbook version ](https://github.com/fastai/fastbook/blob/master/04_mnist_basics.ipynb)of this lesson. If you've already practiced extensively with the previous 2 notebooks, you can go through this relatively quickly and just understand each cell.&#x20;
 * Revisit and complete the [last section of the coding page](coding.md#getting-better-with-tensors).
+* Progress check:
+  * Be able to answer the questions at the end of the fastbook.&#x20;
+  * Understand weights as encoding transformations of space.
+  * Build the intuition that a neural network is essentially the same thing as the line of best fit in a linear regression, except just bigger and more complex.&#x20;
 
 </details>
 
@@ -37,16 +40,16 @@
 
 <summary>Backprop</summary>
 
-* Watch either or both of Artem Kirsanov's [lovely explainer](https://youtu.be/SmZmBKc7Lrs) on backprop and 3B1B's [backpropagation calculus](https://www.3blue1brown.com/lessons/backpropagation-calculus) (definitely read through the text after watching the video; it helps a lot with clarification)
+* Watch both of Artem Kirsanov's [lovely explainer](https://youtu.be/SmZmBKc7Lrs) on backprop and 3B1B's [backpropagation calculus](https://www.3blue1brown.com/lessons/backpropagation-calculus) (definitely read through the text after watching the video; it helps a lot with clarification)
 * Watch Andrej Karpathy's lecture on [neural networks](https://youtu.be/VMj-3S1tku0) (it's okay if some of the exact backprop stuff doesn't make complete sense quite yet)
   * For all Andrej Karpathy videos, make sure you read the descriptions. They usually have Colab notebooks to follow along in and questions + exercises.&#x20;
     * I would recommend either following along in the Colab notebook provided but pausing every so often to re-implement yourself or just following along and implementing in a separate Colab notebook. Also, always try to work on at least one of the exercises.&#x20;
 * Progress check
-  * Really, truly, genuinely understand that a neural net is basically just a function that is trying to fit some points in a space in a way that allows it to predict future points with as much accuracy as possible. Artem Kirsanov's video builds some good intuition for that.&#x20;
-    * If you've taken a statistics class and remember looking at least-squares regression lines, just think of a neural network as a more complicated form of that.&#x20;
+  * Really, truly, genuinely, understand that a neural net is just a function that is trying to fit some points in a space in a way that allows it to predict future points with as much accuracy as possible. Artem Kirsanov's video builds some good intuition for that.&#x20;
+    * If you've taken a statistics class or followed along the statistics page, and remember looking at least-squares regression lines, just think of a neural network as a more complicated form of that.&#x20;
       * Now, if you'll recall things like underfitting/overfitting, being wary of extrapolation, using metrics and other graphs to evaluate fit, and the impact that outliers can have on the line, things will feel very familiar as you continue to watch Andrej Karpathy videos in future sections.
-  * Understand this (from Neel Nanda): backprop is just the chain rule on multivariate functions.
-  * By now you should have a solid grok on backprop. Find other resources if you don't.&#x20;
+  * Understand that backpropagation is just the chain rule on multivariate functions.
+  * More on "neurons that fire together, wire together": Hopefully this is another helpful way to understand _why_ neural nets learn if the linear regression analogy didn't help. At the very first layer, you have a pure representation of the input. At the very last layer, you have the output and the loss. From there, as you go back and make the connections with the brightest neurons higher, it "wires together" the brightest neurons. Then, at the last layer, the representation of the image will be fused with that overall chain. Neurons that fire when "seeing" a 2, will wire with those while "thinking" about a 2, and those will wire at the end with the neuron that outpus a 2. This is also why there's so much randomness. Which neurons get wired together is pretty heavily dependent on the initial random values that you set the weights to, so different neurons (at least in such a small model) won't necessarily pick up on the patterns that you might expect in the way you might expect. &#x20;
 
 - [Become a backprop ninja part 1](https://arena3-chapter0-fundamentals.streamlit.app/\[0.4]_Backprop) :)
   * A lot might feel repetitive so skim if necessary. The last section is definitely worthwhile in it's entirety.&#x20;
@@ -58,7 +61,7 @@
 
 <summary>Language Modeling (Mostly) w/ Andrej Karpathy </summary>
 
-* **Meta-note**: for each video that has exercises in the description, try to answer all the questions and do at least one of the coding exercises. I didn't think to check the description until I looked at the videos again while linking them here. I have answers to some of them [here](https://github.com/Vihaan3/Karpathy-Exercises/tree/main). &#x20;
+* **Meta-note**: for each video that has exercises in the description, try to answer all the questions and do at least one of the coding exercises. I didn't think to check the description until I looked at the videos again while linking them here. I have answers to some of the exercises [here](https://github.com/Vihaan3/Karpathy-Exercises/tree/main). &#x20;
 * [Language Modeling Part 1: Makemore](https://www.youtube.com/watch?v=PaCmpygFfXo)
   * Make sure you understand all of the Pytorch operations
   * Explain broadcasting
@@ -90,7 +93,11 @@
 
 * [Ray Tracing](https://arena3-chapter0-fundamentals.streamlit.app/\[0.1]_Ray_Tracing): I didn't do this during my first pass through the ARENA material, and I found that it was actually really helpful for upskilling w/ Pytorch.&#x20;
 * [CNNs and ResNets](https://arena3-chapter0-fundamentals.streamlit.app/\[0.2]_CNNs_&_ResNets): This will probably feel somewhat familiar to the later Karpathy videos, and you can skip around a bit but I think it's good practice w/ Pytorch modules.
-* [Optimization](https://arena3-chapter0-fundamentals.streamlit.app/\[0.3]_Optimization): This is a really important chapter. **TODO:** add intuition questions from Anki.
+* [Optimization](https://arena3-chapter0-fundamentals.streamlit.app/\[0.3]_Optimization): This is a really important chapter.&#x20;
+  * What is the advantage of the Adam Optimizer?
+    * It combines two techniques:&#x20;
+      * using the sum of the gradient: for speed and to escape local minima&#x20;
+      * using the sum of gradient squared: allows you to move in sparse directions because you are dividing the learning rate by the square of the gradients (parameters that have had large gradients and therefore large updates in the past will have lower learning rates while parameters that have had smaller gradients and therefore smaller updates will have higher learning rates.)
 * [GANs and VAEs](https://arena3-chapter0-fundamentals.streamlit.app/\[0.5]_VAEs_&_GANs): Don't feel like there's that much conceptually new covered (besides the intro to VAEs and GANs) but I thought it was a nice way to tie everything in this section together.&#x20;
 
 </details>

@@ -18,9 +18,7 @@ Customize this roadmap based on your prior knowledge, but make sure you have all
     * [ ] if you need more practice, use [Exercism](https://exercism.org/tracksbe/python)
   * [ ] Go through [this book](https://book.pythontips.com/en/latest/) and make sure you understand everything up to section 21
 
-<!---->
-
-* [ ] Other resources you can use if you don't like my roadmap
+- [ ] Other resources you can use if you don't like my roadmap
   * [ ] [MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/)'s intro to Python
   * [ ] [Harvard](https://cs50.harvard.edu/python/2022/)'s intro to Python
   * [ ] [Corey Schafer ](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) -> if there's anything in particular that you're confused by, it'll probably be explained really well in here
@@ -42,7 +40,7 @@ Stop here for now. I'll tell you to revisit this page once you're more familiar 
 <summary>Get familiar w/ Pytorch </summary>
 
 * [https://pytorch.org/tutorials/beginner/basics/intro.html](https://pytorch.org/tutorials/beginner/basics/intro.html)
-* [https://pytorch.org/tutorials/beginner/nn\_tutorial.html](https://pytorch.org/tutorials/beginner/nn\_tutorial.html)
+* [https://pytorch.org/tutorials/beginner/nn\_tutorial.html](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 
 </details>
 
@@ -50,8 +48,8 @@ Stop here for now. I'll tell you to revisit this page once you're more familiar 
 
 <summary>Practice Numpy and Pytorch</summary>
 
-* Implement as many of [these exercises](ps://github.com/rougier/numpy-100/blob/master/100\_Numpy\_exercises.ipynb) as you feel like doing in both Numpy and Pytorch
-* Answer these questions (shamelessly stolen from [https://arena3-chapter0-fundamentals.streamlit.app/\[0.0\]\_Prerequisites](https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]\_Prerequisites)):&#x20;
+* Implement as many of [these exercises](ps://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) as you feel like doing in both Numpy and Pytorch
+* Answer these questions (borrowed from [https://arena3-chapter0-fundamentals.streamlit.app/\[0.0\]\_Prerequisites](https://arena3-chapter0-fundamentals.streamlit.app/\[0.0]_Prerequisites)):&#x20;
   * At a high level, what is a `torch.Tensor`?
   * What is a `nn.Parameter`, and `nn.Module`?&#x20;
   * When you call `.backward()`, where are your gradients stored?

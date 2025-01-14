@@ -7,7 +7,7 @@
 * [Math](math/README.md)
   * [Linear Algebra](math/linear-algebra.md)
   * [Calculus](math/calculus.md)
-  * [Probability](math/probability.md)
+  * [Statistics](math/statistics.md)
 * [Grokking the Fundamentals](grokking-the-fundamentals.md)
 * [Transformers](transformers.md)
 * [Reinforcement Learning](reinforcement-learning.md)

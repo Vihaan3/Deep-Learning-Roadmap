@@ -11,7 +11,7 @@
     * Give a conceptual overview of the steps of DQN.
       * use some kind of policy (usually epsilon-greedy)
       * store these experiences in the _replay buffer_
-      * use the values from the replay buffer to calculate a TD error (temporal difference) error between a target network and the Q-network (where the Q-network provides the prediction for the current Q-value and the target network provides the prediction for the Q-value after the next step)
+      * use the values from the replay buffer to calculate a TD error (temporal difference error) between a target network and the Q-network (where the Q-network provides the prediction for the current Q-value and the target network provides the prediction for the Q-value after the next step)
       * update the Q-network via gradient descent
       * every so often, copy the Q-network weights over to the target network
     * Why do you even need a target network?
@@ -26,9 +26,9 @@
     * Describe the interplay between the actor and critic networks.
       * The actor network needs the critic network to estimate the gradient and perform gradient ascent, and the critic is learning the value function of the actor's current policy. Basically, the actor network learns the policy and the critic network learns the values function V(s).
     * What is the major innovation of PPO from TRPO? What was the big innovation of TRPO?  &#x20;
-      * PPO has a simpler optimization process because of the clipped surrogate objective. TRPO&#x20;
+      * PPO has a simpler optimization process because of the clipped surrogate objective.&#x20;
     * Why did you do a shared network for actor and critic only for Atari (and not for Cartpole or Mujoco)?
-      * Ans: Atari games have massive observation spaces while Cartpole (4) and Mujoco (11) have much smaller ones. The shared network generates high-level representations of the state, and the diverging branches for actor and critic at the end are based on those state representations.
+      * Ans: Atari games have massive observation spaces while Cartpole and Mujoco have much smaller ones (4 and 11 respectively). The shared network generates high-level representations of the state, and the diverging branches for actor and critic at the end can use the same representation at the start.
     * What is the difference between on-policy and off-policy RL? What is the difference in how they update?
       * Ans: On-policy: The agent learns the value of the policy it is currently following. Basically, the agent learns directly from the actions it is actually taking. Off-policy: The agent learns the value of the optimal policy independent of the actions taken by the current policy. The agent learns about a policy different than the one currently being followed.
       * Update ans: On-policy: Updates are based on the difference between expected rewards from one step to the next. Off-policy: Updates are based on the difference between action selected by current policy and optimal action.

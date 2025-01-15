@@ -22,5 +22,13 @@
   * For me, PPO felt like it came out of left field, and it took spending more time learning about policy gradients to really grok things.
     * Before you get started, read the rest of Lilian Weng's post and read up on [policy gradients from Spinning Up](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html) if you want to go deeper in the math. &#x20;
       * Look for other resources if things don't quite make sense yet. Once you feel a little confident, move on to the Arena lesson.
+  * Progress Check
+    * Describe the interplay between the actor and critic networks.
+      * The actor network needs the critic network to estimate the gradient and perform gradient ascent, and the critic is learning the value function of the actor's current policy. Basically, the actor network learns the policy and the critic network learns the values function V(s).
+    * What is the major innovation of PPO over TRPO?&#x20;
+      * PPO has a simpler optimization process because of the clipped surrogate objective.
+    * Why did you do a shared network for actor and critic only for Atari (and not for Cartpole or Mujoco)?
+      * Ans: Atari games have massive observation spaces while Cartpole (4) and Mujoco (11) have much smaller ones. The shared network generates high-level representations of the state, and the diverging branches for actor and critic at the end are based on those state representations.
+    *
 * [RLHF](https://arena3-chapter2-rl.streamlit.app/\[2.4]_RLHF)
   * I think this week was the most straightforward out of all of them. It logically follows the PPO lesson fairly smoothly.&#x20;

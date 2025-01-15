@@ -7,7 +7,7 @@
 * [Q-Learning and DQN](https://arena3-chapter2-rl.streamlit.app/\[2.2]_Q-Learning_and_DQN)
   * In DQN, really understand that the target networks are predicting the q-value for the next state while the q-networks are predicting the q-value for the current state! This is probably very obvious, but I didn't quite register it at first pass. I ended up spending a day banging my head against the wall and trying to figure out how in the world DQN worked if both networks were predicting the q-value for the same state, and the target was almost guaranteed to be worse.&#x20;
   * Progress Check
-    * Understand, that DQN is just an extension of Q-learning to deep learning. Instead of using a table to store all the Q-values for each state-action pair, we train a neural network to learn this function for us.
+    * Understand that DQN is just an extension of Q-learning to deep learning. Instead of using a table to store all the Q-values for each state-action pair, we train a neural network to learn this function for us.
     * Give a conceptual overview of the steps of DQN.
       * use some kind of policy (usually epsilon-greedy)
       * store these experiences in the _replay buffer_
@@ -25,7 +25,7 @@
   * Progress Check
     * Describe the interplay between the actor and critic networks.
       * The actor network needs the critic network to estimate the gradient and perform gradient ascent, and the critic is learning the value function of the actor's current policy. Basically, the actor network learns the policy and the critic network learns the values function V(s).
-    * What is the major innovation of PPO from TRPO? What was the big innovation of TRPO?  &#x20;
+    * What is the major innovation of PPO over TRPO?&#x20;
       * PPO has a simpler optimization process because of the clipped surrogate objective.&#x20;
     * Why did you do a shared network for actor and critic only for Atari (and not for Cartpole or Mujoco)?
       * Ans: Atari games have massive observation spaces while Cartpole and Mujoco have much smaller ones (4 and 11 respectively). The shared network generates high-level representations of the state, and the diverging branches for actor and critic at the end can use the same representation at the start.

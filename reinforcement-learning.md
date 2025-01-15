@@ -20,15 +20,19 @@
       * No, because the Q function takes in states and returns Q-values (estimated future reward) for each discrete action. It's not even great for large action spaces.
 * [PPO](https://arena3-chapter2-rl.streamlit.app/\[2.3]_PPO)
   * For me, PPO felt like it came out of left field, and it took spending more time learning about policy gradients to really grok things.
-    * Before you get started, read the rest of Lilian Weng's post and read up on [policy gradients from Spinning Up](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html) if you want to go deeper in the math. &#x20;
+    * Before you get started, read the rest of Lilian Weng's post and read up on [policy gradients from Spinning Up](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html) if you want to go deeper in the math. I found Lilian Weng's [post](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/) specifically on policy gradients to be really helpful as well.
       * Look for other resources if things don't quite make sense yet. Once you feel a little confident, move on to the Arena lesson.
   * Progress Check
     * Describe the interplay between the actor and critic networks.
       * The actor network needs the critic network to estimate the gradient and perform gradient ascent, and the critic is learning the value function of the actor's current policy. Basically, the actor network learns the policy and the critic network learns the values function V(s).
-    * What is the major innovation of PPO over TRPO?&#x20;
-      * PPO has a simpler optimization process because of the clipped surrogate objective.
+    * What is the major innovation of PPO from TRPO? What was the big innovation of TRPO?  &#x20;
+      * PPO has a simpler optimization process because of the clipped surrogate objective. TRPO&#x20;
     * Why did you do a shared network for actor and critic only for Atari (and not for Cartpole or Mujoco)?
       * Ans: Atari games have massive observation spaces while Cartpole (4) and Mujoco (11) have much smaller ones. The shared network generates high-level representations of the state, and the diverging branches for actor and critic at the end are based on those state representations.
-    *
+    * What is the difference between on-policy and off-policy RL? What is the difference in how they update?
+      * Ans: On-policy: The agent learns the value of the policy it is currently following. Basically, the agent learns directly from the actions it is actually taking. Off-policy: The agent learns the value of the optimal policy independent of the actions taken by the current policy. The agent learns about a policy different than the one currently being followed.
+      * Update ans: On-policy: Updates are based on the difference between expected rewards from one step to the next. Off-policy: Updates are based on the difference between action selected by current policy and optimal action.
+    * What is the difference between model-based and model-free RL?
+      * Model-based algorithms have access to the transition probability distribution and the reward function while model-free algorithms help the agent learn about the world via interaction.
 * [RLHF](https://arena3-chapter2-rl.streamlit.app/\[2.4]_RLHF)
   * I think this week was the most straightforward out of all of them. It logically follows the PPO lesson fairly smoothly.&#x20;

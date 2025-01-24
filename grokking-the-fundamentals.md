@@ -101,3 +101,15 @@
 * [GANs and VAEs](https://arena3-chapter0-fundamentals.streamlit.app/\[0.5]_VAEs_&_GANs): Don't feel like there's that much conceptually new covered (besides the intro to VAEs and GANs) but I thought it was a nice way to tie everything in this section together.&#x20;
 
 </details>
+
+<details>
+
+<summary>Exercises/Mini-Projects</summary>
+
+You should stop here and really work on some exercises/mini-projects that can help you actually understand what you've learnt. One of the issues with really good educators is that good lessons can make it easy to feel like you know far more than you actually do.&#x20;
+
+* If you haven't already, really do try some of the Karpathy exercises. I have answers to some of what I considered the harder ones [here](https://github.com/Vihaan3/Karpathy-Exercises/blob/main/Karpathy_Exercises.ipynb).
+* [Autodiff](https://github.com/UlisseMini/light) for another language that you know (basically replicate the basics of Pytorch but in another language).&#x20;
+* Write a [neural network class](https://github.com/Elijah-Bodden/Numpy-NN) purely in numpy.
+
+</details>

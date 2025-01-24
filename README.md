@@ -14,27 +14,19 @@ TODO
   * [ ] Lin alg., calculus, probability practice&#x20;
     * [ ] Be able to answer all questions on these from the prereqs page from week 0 of Arena (I felt on top of the world as a teenager who "self-taught" very surface-level calc, linear algebra, and probability. Then I tried doing the questions and went asdfasdfasdfasf.)
     * [ ] Add practice materials to here
-  * [ ] From week 0 of ARENA
-    * [ ] Ray Tracing
-    * [ ] Get more comfortable w/ Pytorch again (weeks of doing RL has really weakened my Pytorch skills)
-      * [ ] [https://pytorch.org/tutorials/beginner/nn\_tutorial.html](https://pytorch.org/tutorials/beginner/nn\_tutorial.html)
-      * [ ] Speedrun
-        * [ ] CNNs and ResNets
-        * [ ] Optimization
-        * [ ] VAEs and GANs
   * [ ] RL Review
-    * [https://spinningup.openai.com/en/latest/spinningup/rl\_intro.html](https://spinningup.openai.com/en/latest/spinningup/rl\_intro.html)
+    * [https://spinningup.openai.com/en/latest/spinningup/rl\_intro.html](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
     * [https://lilianweng.github.io/posts/2018-02-19-rl-overview/](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
     * [https://youtu.be/JgvyzIkgxF0](https://youtu.be/JgvyzIkgxF0) -> if good, add to the roadmap
     * [https://karpathy.github.io/2016/05/31/rl/](https://karpathy.github.io/2016/05/31/rl/) -> policy gradient
   * [ ] Karpathy Tokenization video
   * [ ] Cool Projects
     * [ ] RL Bonus Exercises
-      * [ ] [RLHF](https://arena3-chapter2-rl.streamlit.app/\[2.4]\_RLHF#learn-a-human-preference-reward-model)
+      * [ ] [RLHF](https://arena3-chapter2-rl.streamlit.app/\[2.4]_RLHF#learn-a-human-preference-reward-model)
         * [ ] learning a human preference reward model&#x20;
         * [ ] All the suggested paper replications (3, 1, 2 in order of interestingness to me)
         * [ ] Differential Learning Rates
-      * [ ] &#x20;[PPO](https://arena3-chapter2-rl.streamlit.app/\[2.3]\_PPO#introduction-ppo-vs-dqn)
+      * [ ] &#x20;[PPO](https://arena3-chapter2-rl.streamlit.app/\[2.3]_PPO#introduction-ppo-vs-dqn)
         * [ ] Wordle
         * [ ] Other discrete environments
     * [ ] Finish doing the Karpathy exercises

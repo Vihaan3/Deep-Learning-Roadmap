@@ -1,7 +1,8 @@
 # Transformers
 
-* Get a non-technical introduction to attention with 3B1B with these two videos: [https://www.3blue1brown.com/lessons/gpt](https://www.3blue1brown.com/lessons/gpt), [https://www.3blue1brown.com/lessons/attention](https://www.3blue1brown.com/lessons/attention). &#x20;
-* [Andrej Karpathy Transformers](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+* Get a non-technical introduction to attention with 3B1B with these two videos: [https://www.3blue1brown.com/lessons/gpt](https://www.3blue1brown.com/lessons/gpt), [https://www.3blue1brown.com/lessons/attention](https://www.3blue1brown.com/lessons/attention).
+* Go through an intuitive visualization: [https://bbycroft.net/llm](https://bbycroft.net/llm) &#x20;
+* [Andrej Karpathy Transformers](https://www.youtube.com/watch?v=kCc8FmEb1nY)&#x20;
 * Progress Check:
   * Be able to answer all of [these questions](https://jacobgw.com/blog/tft/2024/05/12/srs-intuit.html)
   * Understand the differences between:
